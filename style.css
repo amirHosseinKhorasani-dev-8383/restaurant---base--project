@@ -1,0 +1,79 @@
+.header {
+  background: url(/Images/01-1678789199258.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+
+.btn i {
+  border-radius: 10px;
+}
+.main-part-2 span i {
+  font-size: 15px;
+}
+.main-part-2 span i i {
+  font-size: 5px;
+}
+.main-part-2 h3 {
+  font-size: 20px;
+}
+.main-part-3 span:nth-child(2) {
+  font-size: 13px;
+  width: 500px;
+  text-align: justify;
+  line-height: 25px;
+}
+.main-part-4 {
+  border-radius: 24px;
+}
+.main-part-4 section:nth-of-type(2) > span {
+  font-size: 13px;
+}
+.main-part-4 section:nth-of-type(1) span i {
+  font-size: 13px;
+}
+.main-part-5 > h6 {
+  font-size: 12px;
+}
+.main-part-5 > p {
+  font-size: 14px;
+  line-height: 30px;
+}
+.main-part-6 section:nth-of-type(1) h4 {
+  font-size: 13px;
+}
+.main-part-6 section:nth-of-type(1) span i {
+  font-size: 13px;
+}
+.main-part-6 {
+  border-radius: 24px;
+}
+.p-13px {
+  font-size: 13px;
+}
+.close {
+  display: none;
+}
+
+#main-dayes-section {
+  display: none;
+}
+.open {
+  display: block !important;
+}
+.sidebar {
+  display: none;
+}
+
+.sidebar span {
+  border-radius: 10px;
+}
+.body {
+  opacity: 50%;
+}
+.main::-webkit-scrollbar {
+  display: none;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
